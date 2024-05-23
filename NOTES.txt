@@ -4,3 +4,5 @@
 
 IP Address Lookup: https://www.nslookup.io/
 Learn to type faster:  https://www.keybr.com/
+Lorem Ipsum for photos:   https://picsum.photos/
+Version Control System: https://github.com/
